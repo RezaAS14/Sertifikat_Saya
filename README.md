@@ -1,13 +1,12 @@
-# 📜 Sertifikat Saya  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=RezaAS14&repo=Sertifikat_Saya&color=blueviolet&style=flat-square)
+# Sertifikat Saya  
+---
 
 Repository ini berisi kumpulan sertifikat saya dalam berbagai bidang.  
 Semua sertifikat ditampilkan agar mudah diakses sebagai portofolio.  
 
 ---
 
-## 🏆 Daftar Sertifikat  
+## Daftar Sertifikat  
 
 ### 1. Sertifikat Apresiasi  
 - Dari **[Dari Bidang Siber Sandi Dan Aplikasi Dinas Komunikasi , Informatika Dan Statistik Provinsi DKI Jakarta]** (2025/01/30)  
